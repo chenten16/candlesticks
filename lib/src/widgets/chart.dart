@@ -157,7 +157,7 @@ class Chart extends StatelessWidget {
                                                     .close <=
                                                 candles[index >= 0 ? index : 0]
                                                     .open
-                                            ? ColorPalette.darkRed
+                                            ? Colors.purple
                                             : ColorPalette.darkGreen,
                                         child: Center(
                                           child: Text(
