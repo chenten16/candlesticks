@@ -44,7 +44,7 @@ class PriceColumn extends StatelessWidget {
                     Text(
                       "-${(high - scales[scaleIndex] * index).toInt()}",
                       style: TextStyle(
-                        color: Colors.blue,
+                        color: ColorPalette.grayColor,
                         fontSize: 12,
                       ),
                     ),
