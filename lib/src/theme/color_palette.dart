@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class ColorPalette {
-  static const grayColor = Color.fromARGB(255, 132, 142, 156);
+  static const grayColor = Color.fromARGB(255, 0, 0, 0);
   static const barColor = Color.fromARGB(255, 255, 255, 255);
   static const green = Color.fromARGB(255, 40, 147, 67);
   static const darkGreen = Color.fromARGB(255, 40, 147, 67);
